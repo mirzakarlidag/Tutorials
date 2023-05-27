@@ -14,3 +14,8 @@ Django-Tutorials/Sample_API_Project/Sample_API_Project/__pycache__/settings.cpyt
 .gitignore
 Django-Tutorials/Sample_API_Project/Sample_API_Project/__pycache__/settings.cpython-310.pyc
 Django-Tutorials/Sample_API_Project/API/__pycache__/views.cpython-310.pyc
+Django-Tutorials/Sample_API_Project/API/__pycache__/serializers.cpython-310.pyc
+Django-Tutorials/Sample_API_Project/API/__pycache__/urls.cpython-310.pyc
+Django-Tutorials/Sample_API_Project/API/__pycache__/views.cpython-310.pyc
+Django-Tutorials/Sample_API_Project/API/__pycache__/urls.cpython-310.pyc
+Django-Tutorials/Sample_API_Project/API/__pycache__/views.cpython-310.pyc
